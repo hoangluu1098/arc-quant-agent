@@ -1,0 +1,10 @@
+.env
+.env.*
+node_modules
+dist
+contracts/out
+contracts/cache
+.circle
+recovery_file*
+server/state.json
+*.log
