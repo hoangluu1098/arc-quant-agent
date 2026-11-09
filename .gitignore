@@ -8,3 +8,5 @@ contracts/cache
 recovery_file*
 server/state.json
 *.log
+traces.jsonl
+console.jsonl
